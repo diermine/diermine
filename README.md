@@ -46,9 +46,9 @@ src="https://img.shields.io/github/followers/diermine?logo=github&style=for-the-
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-### Badges
+### Rozetler
 
-<b>My GitHub Stats</b>
+<b>My GitHub Statüm</b>
 
 <a href="http://www.github.com/diermine"><img src="https://github-readme-stats.vercel.app/api?username=diermine&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="diermine's GitHub stats" /></a>
 
