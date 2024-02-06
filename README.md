@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/diermine?logo=github&style=for-the-
 <br/>
 <div width="100%" align="center"><a href="https://github.com/diermine/Dart-Mobil-Proje" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diermine&repo=Dart-Mobil-Proje&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
