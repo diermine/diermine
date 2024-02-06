@@ -1,4 +1,4 @@
-Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Benim adım Baran Alyar
+Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Benim adım Baran Alyar
 ===================================================================================================================================
 
 Bilgisayar Programcılığı Öğrencisi
@@ -10,7 +10,7 @@ Henüz çok fazla bilgiye sahip olmasam da, sürekli kendimi geliştiriyor ve bu
 Gelecekte, sadece bu alanlarla sınırlı kalmayıp daha farklı ve çeşitli konularda projeler geliştirmeyi düşünüyorum. Bu süreçte edindiğim bilgileri ve deneyimleri sizinle paylaşarak birlikte öğrenmeyi ve büyümeyi hedefliyorum. 
 Sayfamı takip ederek, ileride hayata geçireceğim yeni projeleri ve öğrendiklerimi kaçırmayın!
 
-* 🌍  Yaşadığım Ülke ve il Turkey / Istanbul
+* 🌍  Yaşadığım Ülke ve il < Turkey / Istanbul >
 * ✉️  Benimle iletişime geçmek için [baranalyar7@gmail.com](mailto:baranalyar7@gmail.com)
 
 <a href="https://www.github.com/diermine" target="_blank" rel="noreferrer"><img
