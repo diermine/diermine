@@ -37,7 +37,14 @@ src="https://img.shields.io/github/followers/diermine?logo=github&style=for-the-
   </a>
 </p>
 
+<b>Top Projelerim</b>
 
+<div width="100%" align="center"><a href="https://github.com/diermine/Ileri-Gorsel-Banka-Projesi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diermine&repo=Ileri-Gorsel-Banka-Projesi&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/diermine/BilgisayarProgramciligi-2.Sinif-WebProje" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diermine&repo=BilgisayarProgramciligi-2.Sinif-WebProje&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<div width="100%" align="center"><a href="https://github.com/diermine/Dart-Mobil-Proje" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diermine&repo=Dart-Mobil-Proje&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Badges
 
@@ -46,4 +53,3 @@ src="https://img.shields.io/github/followers/diermine?logo=github&style=for-the-
 <a href="http://www.github.com/diermine"><img src="https://github-readme-stats.vercel.app/api?username=diermine&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="diermine's GitHub stats" /></a>
 
 <a href="http://www.github.com/diermine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diermine&stroke=ec4899&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ec4899&currStreakLabel=a855f7&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
