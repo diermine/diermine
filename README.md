@@ -4,7 +4,11 @@ Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Bilgisayar Programcılığı Öğrencisi
 ----------------------------------
 
-Sayfamda derslerimde kullandığım projelerimi ders notlarımı ve yaptığım projeleri paylaşıyorum. Henüz çok fazla bilgiye sahip olmasam da, sürekli kendimi geliştiriyor ve bu süreci sizinle paylaşmayı çok istiyorum. Özellikle ilgilendiğim alanlar arasında HTML, CSS, C# ve JAVA bulunuyor. Bu konularda yaptığım projeleri paylaşarak hem kendi gelişimimi gözlemliyor hem de bu alandaki deneyimlerimi sizinle paylaşmanın heyecanını yaşıyorum. Gelecekte, sadece bu alanlarla sınırlı kalmayıp daha farklı ve çeşitli konularda projeler geliştirmeyi düşünüyorum. Bu süreçte edindiğim bilgileri ve deneyimleri sizinle paylaşarak birlikte öğrenmeyi ve büyümeyi hedefliyorum. Sayfamı takip ederek, ileride hayata geçireceğim yeni projeleri ve öğrendiklerimi kaçırmayın!
+Sayfamda derslerimde kullandığım projelerimi ders notlarımı ve yaptığım projeleri paylaşıyorum. 
+Henüz çok fazla bilgiye sahip olmasam da, sürekli kendimi geliştiriyor ve bu süreci sizinle paylaşmayı çok istiyorum. 
+Özellikle ilgilendiğim alanlar arasında HTML, CSS, C# ve JAVA bulunuyor. Bu konularda yaptığım projeleri paylaşarak hem kendi gelişimimi gözlemliyor hem de bu alandaki deneyimlerimi sizinle paylaşmanın heyecanını yaşıyorum. 
+Gelecekte, sadece bu alanlarla sınırlı kalmayıp daha farklı ve çeşitli konularda projeler geliştirmeyi düşünüyorum. Bu süreçte edindiğim bilgileri ve deneyimleri sizinle paylaşarak birlikte öğrenmeyi ve büyümeyi hedefliyorum. 
+Sayfamı takip ederek, ileride hayata geçireceğim yeni projeleri ve öğrendiklerimi kaçırmayın!
 
 * 🌍  Yaşadığım Ülke ve il Turkey / Istanbul
 * ✉️  Benimle iletişime geçmek için [baranalyar7@gmail.com](mailto:baranalyar7@gmail.com)
